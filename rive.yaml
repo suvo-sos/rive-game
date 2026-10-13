@@ -1,0 +1,12 @@
+name: the-last-flight
+cursor:
+  property: cursor
+logs:
+  file: build/rive.log
+  problems: build/problems.log
+push:
+  projectId: 1959386
+  fileId: 2622473
+pages:
+  teamId: 1619390
+  name: "the-last-flight"
